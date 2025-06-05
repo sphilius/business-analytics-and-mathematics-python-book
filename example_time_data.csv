@@ -1,0 +1,15 @@
+Date,Project,Duration,Category,Notes
+2023-11-01,Project Alpha,2.5,Work,Initial setup
+2023-11-01,Python Learning,1.0,Learning,Pandas basics
+2023-11-02,Project Alpha,3.0,Work,Developing feature X
+2023-11-02,Admin,0.5,Work,Team meeting
+2023-11-03,Project Beta,4.0,Work,Client call and planning
+2023-11-03,Python Learning,1.5,Learning,Matplotlib tutorial
+2023-11-04,Project Alpha,2.0,Work,Testing and bug fixes
+2023-11-04,Personal Website,2.0,Personal,Updated blog
+2023-11-05,Project Beta,3.5,Work,Documentation
+2023-11-05,Admin,0.75,Work,Responding to emails
+2023-11-06,Python Learning,1.0,Learning,Advanced NumPy
+2023-11-06,Project Alpha,2.5,Work,Refactoring code
+2023-11-07,Personal Website,1.5,Personal,Adding new portfolio items
+2023-11-07,Project Beta,3.0,Work,User testing session

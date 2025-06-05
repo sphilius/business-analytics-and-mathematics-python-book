@@ -1,0 +1,19 @@
+Date,Description,Amount,Category
+2023-10-01,Salary,2500.00,Income
+2023-10-01,Groceries,-45.50,Food
+2023-10-03,Internet Bill,-59.99,Utilities
+2023-10-05,Coffee,-4.75,Food
+2023-10-15,Freelance Payment,300.00,Income
+2023-10-20,Dinner Out,-65.00,Food
+2023-10-25,Electricity Bill,-75.00,Utilities
+2023-11-01,Salary,2500.00,Income
+2023-11-02,Rent,-800.00,Housing
+2023-11-02,Groceries,-60.20,Food
+2023-11-05,Movie Night,-25.00,Entertainment
+2023-11-10,Birthday Gift,-50.00,Gifts
+2023-11-15,Gym Membership,-40.00,Health
+2023-11-20,Online Course, -100.00,Learning
+2023-12-01,Salary,2500.00,Income
+2023-12-01,Groceries,-55.75,Food
+2023-12-03,Gas Bill,-45.00,Utilities
+2023-12-10,Holiday Shopping,-150.00,Gifts
